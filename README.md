@@ -16,45 +16,15 @@ Flutter project designed to help you discover a world of diverse recipes. It cat
 ## Specifications
 
 Platform: Developed using Flutter for both iOS and Android.
+
 Themes: Supports color theme modes (light and dark).
+
 Data Source: Utilizes dummy data.
+
 Data Models: Utilizes models for meals and categories.
+
 State Management: Utilizes Providers for centralized state management.
 
 ## File and Folder Structure
 
-├── lib/
-│   ├── data/
-│   │   └── dummy_data.dart
-│   │
-│   ├── models/
-│   │   ├── category.dart
-│   │   └── meal.dart
-│   │
-│   ├── providers/
-│   │   ├── favorites_provider.dart
-│   │   ├── filters_provider.dart
-│   │   ├── search_meal.dart
-│   │   └── meals_provider.dart
-│   │
-│   ├── screens/
-│   │   ├── categories.dart
-│   │   ├── filters.dart
-│   │   ├── meal_details.dart
-│   │   ├── meals.dart
-│   │   └── tabs.dart
-│   │
-│   ├── widgets/
-│   │   ├── category_grid_item.dart
-│   │   ├── main_drawer.dart
-│   │   ├── meal_item.dart
-│   │   ├── meal_item_trait.dart
-│   │
-│   └── main.dart
-│
-│
-├── pubspec.yaml
-└── README.md
-```
-
-## 
+![image](https://github.com/eirilovi/Meals-app/assets/102029007/bfaea755-69e4-40c8-86f0-41c4f699b675)
