@@ -27,4 +27,5 @@ State Management: Utilizes Providers for centralized state management.
 
 ## File and Folder Structure
 
-![image](https://github.com/eirilovi/Meals-app/assets/102029007/bfaea755-69e4-40c8-86f0-41c4f699b675)
+![image](https://github.com/eirilovi/Meals-app/assets/102029007/4f4f2e8b-578d-4272-854d-6ce3db4600e7)
+
